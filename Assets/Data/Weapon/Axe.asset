@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d3ea0816b499e8458b473055f88e55f, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  IsStackable: 0
+  MaxStackSize: 1
+  Name: Axe
+  Description: Chop a tree down
+  ItemImage: {fileID: 21300000, guid: 8975cf7ca1cf7bd4d98a0a05e7624359, type: 3}
+  weaponGenres: 00000000
+  weaponAbility: []
+  weaponElemental: 00000000
+  attackRatePerSecond: 1
+  projectileSpeed: 1
+  projectilAmountPerShooting: 1
+  cooldownToNextAttack: 3
