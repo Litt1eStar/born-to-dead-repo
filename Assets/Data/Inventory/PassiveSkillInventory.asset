@@ -13,25 +13,35 @@ MonoBehaviour:
   m_Name: PassiveSkillInventory
   m_EditorClassIdentifier: 
   inventoryItems:
-  - quantity: 20
-    item: {fileID: 11400000, guid: 75b55f415517e674998e3d2ca544876a, type: 2}
-  - quantity: 20
-    item: {fileID: 11400000, guid: 75b55f415517e674998e3d2ca544876a, type: 2}
-  - quantity: 20
-    item: {fileID: 11400000, guid: 75b55f415517e674998e3d2ca544876a, type: 2}
-  - quantity: 20
-    item: {fileID: 11400000, guid: 75b55f415517e674998e3d2ca544876a, type: 2}
-  - quantity: 20
-    item: {fileID: 11400000, guid: 75b55f415517e674998e3d2ca544876a, type: 2}
-  - quantity: 20
-    item: {fileID: 11400000, guid: 75b55f415517e674998e3d2ca544876a, type: 2}
-  - quantity: 20
-    item: {fileID: 11400000, guid: 75b55f415517e674998e3d2ca544876a, type: 2}
-  - quantity: 20
-    item: {fileID: 11400000, guid: 75b55f415517e674998e3d2ca544876a, type: 2}
-  - quantity: 20
-    item: {fileID: 11400000, guid: 75b55f415517e674998e3d2ca544876a, type: 2}
-  - quantity: 20
-    item: {fileID: 11400000, guid: 75b55f415517e674998e3d2ca544876a, type: 2}
-  <Size>k__BackingField: 10
-  inventoryType: 0
+  - quantity: 4
+    item: {fileID: 11400000, guid: 44e15e9c6d612cd41a9bae4e980e7b0a, type: 2}
+  - quantity: 0
+    item: {fileID: 0}
+  - quantity: 0
+    item: {fileID: 0}
+  - quantity: 0
+    item: {fileID: 0}
+  - quantity: 0
+    item: {fileID: 0}
+  - quantity: 0
+    item: {fileID: 0}
+  - quantity: 0
+    item: {fileID: 0}
+  - quantity: 0
+    item: {fileID: 0}
+  - quantity: 0
+    item: {fileID: 0}
+  - quantity: 0
+    item: {fileID: 0}
+  - quantity: 0
+    item: {fileID: 0}
+  - quantity: 0
+    item: {fileID: 0}
+  - quantity: 0
+    item: {fileID: 0}
+  - quantity: 0
+    item: {fileID: 0}
+  - quantity: 0
+    item: {fileID: 0}
+  <Size>k__BackingField: 15
+  inventoryType: 2

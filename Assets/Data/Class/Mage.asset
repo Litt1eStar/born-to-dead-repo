@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f152cdc414271704b88723ba7629c496, type: 3}
+  m_Name: Mage
+  m_EditorClassIdentifier: 
+  uniqueSkill: {fileID: 11400000, guid: d1978c06d27e7524d8f711ee098f0612, type: 2}
+  className: Mage
+  sprite: {fileID: -1808745745, guid: a21e9ca15de224a45af609f3c225e52c, type: 3}
+  ac: {fileID: 9100000, guid: 7bab09a37d61f4940a13156385a6e20f, type: 2}
+  hp:
+    baseValue: 100
+    modifier: []
+  mp:
+    baseValue: 150
+    modifier: []
+  defense:
+    baseValue: 15
+    modifier: []
+  strength:
+    baseValue: 30
+    modifier: []
+  speed:
+    baseValue: 10
+    modifier: []
+  attackRatePerSecond:
+    baseValue: 0.75
+    modifier: []
+  projectileSpeed:
+    baseValue: 15
+    modifier: []
+  projectileAmount:
+    baseValue: 15
+    modifier: []
+  cooldownToNextAttack:
+    baseValue: 0.25
+    modifier: []

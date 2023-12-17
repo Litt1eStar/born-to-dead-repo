@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: ActiveSkillInventory
   m_EditorClassIdentifier: 
   inventoryItems:
-  - quantity: 20
-    item: {fileID: 11400000, guid: 75b55f415517e674998e3d2ca544876a, type: 2}
-  - quantity: 20
-    item: {fileID: 11400000, guid: 75b55f415517e674998e3d2ca544876a, type: 2}
+  - quantity: 0
+    item: {fileID: 0}
+  - quantity: 0
+    item: {fileID: 0}
   - quantity: 0
     item: {fileID: 0}
   - quantity: 0
@@ -26,4 +26,4 @@ MonoBehaviour:
   - quantity: 0
     item: {fileID: 0}
   <Size>k__BackingField: 6
-  inventoryType: 2
+  inventoryType: 1

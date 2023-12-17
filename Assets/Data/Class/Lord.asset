@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f152cdc414271704b88723ba7629c496, type: 3}
+  m_Name: Lord
+  m_EditorClassIdentifier: 
+  uniqueSkill: {fileID: 11400000, guid: d1978c06d27e7524d8f711ee098f0612, type: 2}
+  className: Lord
+  sprite: {fileID: -1667928808, guid: 8930fdf069ee66c4f83dd0cc6453d38d, type: 3}
+  ac: {fileID: 9100000, guid: 22e287f9bb520a548a46ce48c77c7b17, type: 2}
+  hp:
+    baseValue: 300
+    modifier: []
+  mp:
+    baseValue: 50
+    modifier: []
+  defense:
+    baseValue: 25
+    modifier: []
+  strength:
+    baseValue: 30
+    modifier: []
+  speed:
+    baseValue: 5
+    modifier: []
+  attackRatePerSecond:
+    baseValue: 0
+    modifier: []
+  projectileSpeed:
+    baseValue: 15
+    modifier: []
+  projectileAmount:
+    baseValue: 5
+    modifier: []
+  cooldownToNextAttack:
+    baseValue: 1
+    modifier: []

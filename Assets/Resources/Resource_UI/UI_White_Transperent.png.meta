@@ -173,7 +173,7 @@ TextureImporter:
         width: 173
         height: 170
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 41, y: 34, z: 37, w: 34}
       outline: []
       physicsShape: []
@@ -181,6 +181,69 @@ TextureImporter:
       bones: []
       spriteID: 6fe6eabf706433e47920cf8b043a2487
       internalID: -612949814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_White_Transperent_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 413
+        width: 196
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 27, z: 28, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7189278292fef564a9ad5f097b666872
+      internalID: 229617079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_White_Transperent_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 545
+        width: 166
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 41, z: 42, w: 42}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998c555f858bc6a42af5596e1913abad
+      internalID: -733438322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_White_Transperent_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 473
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 27, y: 0, z: 22, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9f0cc783545b44fa5772bf4ab7fb63
+      internalID: 1894099302
       vertices: []
       indices: 
       edges: []
@@ -197,6 +260,9 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       UI_White_Transperent_0: -612949814
+      UI_White_Transperent_1: 229617079
+      UI_White_Transperent_2: -733438322
+      UI_White_Transperent_3: 1894099302
       UIartdeco_PIPO_pack2_white_0: 1968567152
       UIartdeco_PIPO_pack2_white_1: 2145175254
   mipmapLimitGroupName: 
